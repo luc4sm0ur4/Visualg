@@ -1,0 +1,21 @@
+Algoritmo "Poligono convexo"
+// Disciplina   : Lógica de Programação
+// Descrição   : Calculo de um poligono convexo
+// Autor(a)    : Lucas Moura
+// Data atual  : 21/3/2020
+Var
+n : inteiro
+
+inicio
+
+   escreva("Informe o número de lados: ")
+   leia(n)
+   se (n >= 3) entao
+      escreval("Esse poligono tem ",n*(n-3)/2," diagonais")
+   senao
+      escreval("Nao existe poligono de ",n , " lados")
+
+   fimse
+
+
+Fimalgoritmo
