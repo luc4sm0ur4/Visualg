@@ -1,2 +1,3 @@
 # Visualg
-  Nesse repositorio tem alguns exemplos de codigos feitos via **_Visualg_** por mim, é feitos baseados em exercicios passados por professor(es,as) em aula e via **_EAD_**.
+
+  In this repository there are some examples of codes made in **_Visualg_** by me, they are made based on exercises passed by teacher(s) in class.
